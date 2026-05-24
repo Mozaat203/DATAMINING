@@ -1,10 +1,5 @@
 # 🧠 Educational Data Mining: Course Review Sentiment Engine
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C)
-![NLP](https://img.shields.io/badge/NLP-BiLSTM-brightgreen)
-![Data Mining](https://img.shields.io/badge/Data%20Mining-Imbalanced%20Classes-orange)
-
 ## 📌 Executive Summary
 This repository contains a complete, end-to-end Natural Language Processing (NLP) and Data Mining pipeline designed to extract, preprocess, and classify student feedback from raw course reviews. 
 
